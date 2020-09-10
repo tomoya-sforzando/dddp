@@ -15,7 +15,7 @@
 データパイプラインとは、  
 **データ基盤へのデータの出し入れや目的に応じたデータ利用を効率よく行うためのデータ処理に関する一連の流れ**
 
-> ![data pipeline image](https://www.hitachi.co.jp/products/it/bigdata/platform/pentaho/article/data-pipeline/images/data-pipeline_img.gif)
+> ![data pipeline image](https://www.hitachi.co.jp/products/it/bigdata/platform/pentaho/article/data-pipeline/images/data-pipeline_img.gif)  
 > *出典: [3.データ分析を成功へと導くデータパイプライン：Pentaho：日立](https://www.hitachi.co.jp/products/it/bigdata/platform/pentaho/article/data-pipeline/data-pipeline.html#dsp_img) より*
 
 ## データ基盤
@@ -85,6 +85,6 @@
 
 ## References
 
-- [データ基盤とは？種類と用途、データパイプラインとワークフロー管理 | AIdrops](https://www.bigdata-navi.com/aidrops/1183/)
+- [データ基盤とは？種類と用途、データパイプラインとワークフロー管理 \| AIdrops](https://www.bigdata-navi.com/aidrops/1183/)
 - [3.データ分析を成功へと導くデータパイプライン：Pentaho：日立](https://www.hitachi.co.jp/products/it/bigdata/platform/pentaho/article/data-pipeline/data-pipeline.html#dsp_img)
 - [第9回［最終回］　データパイプラインのためのワークフロー管理：これなら使える！ビッグデータ分析基盤のエコシステム｜gihyo.jp … 技術評論社](https://gihyo.jp/dev/serial/01/bigdata-analysis/0009)
