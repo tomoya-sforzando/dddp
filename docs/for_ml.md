@@ -3,14 +3,14 @@
 ## 知る
 
 - MLOps
-  - [MLOps: 機械学習における継続的デリバリーと自動化のパイプライン  |  Google Cloud](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+  - [MLOps: 機械学習における継続的デリバリーと自動化のパイプライン \| Google Cloud](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
   - [第1回勉強会：なぜ今MLOpsなのか、先駆者や実際の現場からMLOpsを学ぼう：MLOpsイベントレポート - ＠IT](https://www.atmarkit.co.jp/ait/articles/2009/14/news029.html)
 
 ## ツール
 
 - [Kedro](https://github.com/quantumblacklabs/kedro)
   - > Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines.You can use it, for example, to optimise the process of taking a machine learning model into a production environment.You can use Kedro to organise a single user project running on a local environment, or collaborate within a team on an enterprise-level project.
-  - cf. [Kedro を用いた分析コンペ向けのデータパイプライン構築. この記事は、Kaggle Advent Calendar 2019… | by Masaaki Hirotsu | mhiro2 | Medium](https://medium.com/mhiro2/building-pipeline-with-kedro-for-ml-competition-63e1db42d179)
+  - cf. [Kedro を用いた分析コンペ向けのデータパイプライン構築. この記事は、Kaggle Advent Calendar 2019… \| by Masaaki Hirotsu \| mhiro2 \| Medium](https://medium.com/mhiro2/building-pipeline-with-kedro-for-ml-competition-63e1db42d179)
 - [Metaflow](https://github.com/Netflix/metaflow)
   - > Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
 - [Databolt Flow](https://github.com/d6t/d6tflow)

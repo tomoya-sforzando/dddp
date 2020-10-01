@@ -8,5 +8,5 @@
 
 ## Topics
 
-- [About Data Pipeline](https://tomoya-sforzando.github.io/dddp/about_data_pipeline.md)
-- [Data Pipeline for Machine Learning](https://tomoya-sforzando.github.io/dddp/for_ml.md)
+- [About Data Pipeline](https://tomoya-sforzando.github.io/dddp/about_data_pipeline)
+- [Data Pipeline for Machine Learning](https://tomoya-sforzando.github.io/dddp/for_ml)
