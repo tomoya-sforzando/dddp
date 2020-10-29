@@ -10,3 +10,4 @@
 
 - [About Data Pipeline](https://tomoya-sforzando.github.io/dddp/about_data_pipeline)
 - [Data Pipeline for Machine Learning](https://tomoya-sforzando.github.io/dddp/for_ml)
+- [Data Pipeline Casual Talk](https://tomoya-sforzando.github.io/dddp/data_pipeline_casual_talk)
